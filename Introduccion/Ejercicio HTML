@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    <BOdy>
+        <!--Este es mi primer comentario de dos líneas-->
+        <!--Aprendiendo a documentar mi código con OpenBootcamp-->
+        <div>
+             <ul>
+                <li>
+                <a href="https://www.youtube.com/watch?v=CBTduf9urKY&ab_channel=CharlySinewan<">Lo DEJÉ TODO para VIAJAR por el mundo en MOTO. Esto es lo que pasa 10 AÑOS después</a>
+                </li>
+                <li>
+                <a href="https://www.youtube.com/watch?v=7AUk6-I0HD8&ab_channel=SpanishRiders">SUZUKI V-STROM 650</a>
+                </li>
+                <li>
+                <a href="https://www.youtube.com/watch?v=f8otBq5asH8&ab_channel=CharlySinewan">ME METO en un LIO en GUATEMALA / De NOCHE en MAL LUGAR</a>
+                </li>
+            </ul>
+        </div>
+    </BOdy>
+</html>
