@@ -1,0 +1,31 @@
+.flex {
+    display: flex; /*https://codepen.io/enxaneta/full/adLPwv/*/
+    flex-direction: column;
+    background-color: yellow;
+    height: 300px;
+    /*justify-content: center; posiciona elmentos*/
+    justify-content: space-around;
+    /*flex-wrap: wrap; /*redimenciona elementos*/
+    align-items: stretch;
+}
+
+.contenido-1 {
+    background-color: white;
+    height: 200px;
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.contenido-2 {
+    background-color: white;
+    height: 200px;
+    width: 100px;
+    border: 1px solid blue;
+}
+
+.contenido-3 {
+    background-color: white;
+    height: 200px;
+    width: 100px;
+    border: 1px solid blue;
+}
