@@ -3,12 +3,9 @@
     margin: 0;
 }
 
-
-
 .imagen-principal{
     width: 500px;
-    opacity: 0.5;
-
+    opacity: 0.3;    
 }
 
 .imagen-principal:hover {
@@ -16,9 +13,13 @@
 }
 
 .galeria {
-    display: flex;
+    display: flex;  /*homogeniza las imagenes*/
+    flex-wrap: wrap;
+    gap: 10px;
 }
 
 .imagen-galeria{
     width: 150px;
+    opacity: 0.3;
+    cursor: pointer;
 }
