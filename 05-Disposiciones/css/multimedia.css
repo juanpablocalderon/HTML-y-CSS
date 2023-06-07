@@ -4,7 +4,7 @@
 }
 
 .imagen-principal{
-    width: 500px;
+    width: 500px; 
     opacity: 0.3;    
 }
 
@@ -12,7 +12,7 @@
     opacity: 1;
 }
 
-.galeria {
+.imagen-galeria {
     display: flex;  /*homogeniza las imagenes*/
     flex-wrap: wrap;
     gap: 10px;
