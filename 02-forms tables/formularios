@@ -1,44 +1,45 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>Formularios</title>
-    </head>
-    <body>
-        <form action="resultados.html" method="get">                             <!--crear formulario--> 
-        <div>             
-            <label for="nombredeusuario">Nombre De Usuario</label> 
-            <input name="nombredeusuario" id="nombredeusuario" required >             
-        </div> 
-        <br>                        
-        <div>
-            <label for="comentarios">Comentarios</label>
-            <textarea name="comentarios" id="comentarios"></textarea>
-        </div>
-            <br> 
-         <div>
-            <label for="email">Cual es tu Correo</label>
-            <input type="email" name="email" required>                                   
-        </div> 
-        <br> 
-        <div>
-            <label for="edad">Cual es tu edad</label>
-            <input type="number" name="edad" required>                                   
-        </div>  
-        <br>
-        <div>
-            <label for="nacimiento">Cual es tu tu fecha de nacimiento</label>
-            <input type="date" name="nacimiento" required>                                   
-        </div>  
-        <br>        
-        <div>
-            <label for="password">Contraseña</label>
-            <input type="password" name="password" id="password">                                   
-        </div>
-        <br>
-        <div>
-            <button type="reset">Reset</button>
-            <button type="submit">Enviar</button>  
-        </div>                               
-        </form>    
-    </body>
+  <head>
+    <title>Formularios</title>
+  </head>
+  <body>
+    <form action="resultados.html" method="get">
+      <!--crear formulario-->
+      <div>
+        <label for="nombredeusuario">Nombre De Usuario</label>
+        <input name="nombredeusuario" id="nombredeusuario" required />
+      </div>
+      <br />
+      <div>
+        <label for="comentarios">Comentarios</label>
+        <textarea name="comentarios" id="comentarios"></textarea>
+      </div>
+      <br />
+      <div>
+        <label for="email">Cual es tu Correo</label>
+        <input type="email" name="email" required />
+      </div>
+      <br />
+      <div>
+        <label for="edad">Cual es tu edad</label>
+        <input type="number" name="edad" required />
+      </div>
+      <br />
+      <div>
+        <label for="nacimiento">Cual es tu tu fecha de nacimiento</label>
+        <input type="date" name="nacimiento" required />
+      </div>
+      <br />
+      <div>
+        <label for="password">Contraseña</label>
+        <input type="password" name="password" id="password" />
+      </div>
+      <br />
+      <div>
+        <button type="reset">Reset</button>
+        <button type="submit">Enviar</button>
+      </div>
+    </form>
+  </body>
 </html>

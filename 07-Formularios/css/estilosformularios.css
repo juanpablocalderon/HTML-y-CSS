@@ -1,65 +1,62 @@
-.input{
-    width: 100%;
-    padding: 5px 10px;
-    border: 2px solid green;
-    border-radius: 10px;
-    margin-bottom: 10px;
-
+.input {
+  width: 100%;
+  padding: 5px 10px;
+  border: 2px solid green;
+  border-radius: 10px;
+  margin-bottom: 10px;
 }
 
-.input [type="password"]{
-    color: red;
-
+.input [type="password"] {
+  color: red;
 }
 
-.input-moderno{
-    border: none;
-    border-bottom: 1px solid gray;
-    outline: none;
-    padding: 5px;
-    color: gray;
+.input-moderno {
+  border: none;
+  border-bottom: 1px solid gray;
+  outline: none;
+  padding: 5px;
+  color: gray;
 }
 
-.input-moderno::placeholder{
-    color: crimson;
+.input-moderno::placeholder {
+  color: crimson;
 }
 
-.input-moderno:focus{
-    border-bottom: 1px solid blueviolet;
+.input-moderno:focus {
+  border-bottom: 1px solid blueviolet;
 }
 
 .input-background {
-    background-color: aquamarine;
-    border: none;
-    border-radius: 5px;
-    padding: 5px 10px;
-    outline: none;
-    
+  background-color: aquamarine;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+  outline: none;
 }
 
-.input-background ::placeholder{
-    color: beige;
+.input-background ::placeholder {
+  color: beige;
 }
 
-.input-search{
-    padding: 10px;
-    padding-left: 30px;
-    /*border: none;*/
-    background-color: azure;
-    border-radius: 8px;
-    margin: 10px;
-    background-image: url("../img/lupa3.jpeg");
-    background-repeat: no-repeat;
-    background-position: 5px;
+.input-search {
+  padding: 10px;
+  padding-left: 30px;
+  /*border: none;*/
+  background-color: azure;
+  border-radius: 8px;
+  margin: 10px;
+  background-image: url("../img/lupa3.jpeg");
+  background-repeat: no-repeat;
+  background-position: 5px;
 }
 
-textarea{
-    resize: none;
+textarea {
+  resize: none;
 }
 
-select{
-    width: 50%;
-    padding: 15px;
-    background-color: aquamarine;
-    border-radius: 15px;
+select {
+  width: 50%;
+  padding: 15px;
+  background-color: aquamarine;
+  border-radius: 15px;
 }
