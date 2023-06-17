@@ -1,46 +1,52 @@
 <!DOCTYPE html>
 <HTml>
-    <head>
-        <title>Ejercicio 02/2 - Tablas en HTML</title>
-    </head>
-    <body>
-        <h4>Ejercicio 02/2 - Tablas en HTML</h4>
-        <br>
-         <table>
-            <div>
-            <tr>
-                <th>Titulo</th>
-                <th>Autor</th>
-                <th>Año De Publicacion</th>
-                <th>Enlace De Amazon</th>
-            </tr>
-        </div>
-        <div>
-            <tr>
-                <td>Bajo la misma estrella</td>
-                <td>Juan Verde</td>
-                <td>2019</td>
-                <td>https://www.amazon.com/misma-estrella-Fault-Stars-Spanish/dp/1644730030/ref=sr_1_13?adgrpid=101674490773&hvadid=602535271844&hvdev=c&hvlocphy=1029417&hvnetw=g&hvqmt=b&hvrand=10170909728017586192&hvtargid=kwd-325978571653&hydadcr=16270_13466632&keywords=libros+en+espa%C3%B1ol+para+adolescentes&qid=1685103982&sr=8-13</td>
-            </tr>
-        </div>  
-        <br>
-        <div>          
-            <tr>
-                <td>El niño con el pijama de rayas</td>
-                <td>Jhon Boyne</td>
-                <td>2009</td>
-                <td>https://www.amazon.com/pijama-rayas-Letras-Bolsillo-Spanish/dp/8498382548/ref=sr_1_14?adgrpid=101674490773&hvadid=602535271844&hvdev=c&hvlocphy=1029417&hvnetw=g&hvqmt=b&hvrand=10170909728017586192&hvtargid=kwd-325978571653&hydadcr=16270_13466632&keywords=libros+en+espa%C3%B1ol+para+adolescentes&qid=1685104205&sr=8-14</td>
-            </tr>
-        </div>
-        <br>
-        <div>          
-            <tr>
-                <td>Una arruga en el tiempo</td>
-                <td>Madeleine L'Engle</td>
-                <td>2020</td>
-                <td>https://www.amazon.com/arruga-tiempo-Novela-gr%C3%A1fica-Wrinkle/dp/1644731762/ref=sr_1_21?adgrpid=101674490773&hvadid=602535271844&hvdev=c&hvlocphy=1029417&hvnetw=g&hvqmt=b&hvrand=10170909728017586192&hvtargid=kwd-325978571653&hydadcr=16270_13466632&keywords=libros+en+espa%C3%B1ol+para+adolescentes&qid=1685104205&sr=8-21</td>
-            </tr>
-        </div>
-        </table>
-    </body>
+  <head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+  </head>
+  <body>
+    <h4>Ejercicio 02/2 - Tablas en HTML</h4>
+    <br />
+    <table>
+      <div>
+        <tr>
+          <th>Titulo</th>
+          <th>Autor</th>
+          <th>Año De Publicacion</th>
+          <th>Enlace De Amazon</th>
+        </tr>
+      </div>
+      <div>
+        <tr>
+          <td>Bajo la misma estrella</td>
+          <td>Juan Verde</td>
+          <td>2019</td>
+          <td>
+            https://www.amazon.com/misma-estrella-Fault-Stars-Spanish/dp/1644730030/ref=sr_1_13?adgrpid=101674490773&hvadid=602535271844&hvdev=c&hvlocphy=1029417&hvnetw=g&hvqmt=b&hvrand=10170909728017586192&hvtargid=kwd-325978571653&hydadcr=16270_13466632&keywords=libros+en+espa%C3%B1ol+para+adolescentes&qid=1685103982&sr=8-13
+          </td>
+        </tr>
+      </div>
+      <br />
+      <div>
+        <tr>
+          <td>El niño con el pijama de rayas</td>
+          <td>Jhon Boyne</td>
+          <td>2009</td>
+          <td>
+            https://www.amazon.com/pijama-rayas-Letras-Bolsillo-Spanish/dp/8498382548/ref=sr_1_14?adgrpid=101674490773&hvadid=602535271844&hvdev=c&hvlocphy=1029417&hvnetw=g&hvqmt=b&hvrand=10170909728017586192&hvtargid=kwd-325978571653&hydadcr=16270_13466632&keywords=libros+en+espa%C3%B1ol+para+adolescentes&qid=1685104205&sr=8-14
+          </td>
+        </tr>
+      </div>
+      <br />
+      <div>
+        <tr>
+          <td>Una arruga en el tiempo</td>
+          <td>Madeleine L'Engle</td>
+          <td>2020</td>
+          <td>
+            https://www.amazon.com/arruga-tiempo-Novela-gr%C3%A1fica-Wrinkle/dp/1644731762/ref=sr_1_21?adgrpid=101674490773&hvadid=602535271844&hvdev=c&hvlocphy=1029417&hvnetw=g&hvqmt=b&hvrand=10170909728017586192&hvtargid=kwd-325978571653&hydadcr=16270_13466632&keywords=libros+en+espa%C3%B1ol+para+adolescentes&qid=1685104205&sr=8-21
+          </td>
+        </tr>
+      </div>
+    </table>
+  </body>
 </HTml>
