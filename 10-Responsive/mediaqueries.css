@@ -1,0 +1,49 @@
+h1 {
+  color: red;
+  font-size: 4rem;
+}
+
+p {
+  color: black;
+  font-size: 2rem;
+}
+
+/*@media screen and (max-width: 576px) { */
+ /* h1 {
+    color: blue;
+  }
+} */
+
+@media(min-width: 576px){
+    h1{
+        color: green;
+    }
+}
+
+@media(min-width: 995px){
+    h1{
+        color: blue;
+    }
+}
+
+@media(min-heigth: 300px){
+    p {
+        color: cyan;
+    }
+}
+
+@media(orientation: landscape and min-heigth 400px){
+    p{
+        color: brown;
+    }
+}
+
+@media(min-heigth: 300px),(min-width 116px){
+    h1{
+        color: darksalmon;
+    }
+}
+   
+
+
+
